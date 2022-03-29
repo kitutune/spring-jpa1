@@ -7,6 +7,7 @@ import javax.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
 
+//お試し中
 @Getter
 @Setter
 @Entity
